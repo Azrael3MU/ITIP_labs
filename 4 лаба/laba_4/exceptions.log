@@ -1,0 +1,3 @@
+CustomUnsupportedOperationException: Addition is not supported
+CustomUnsupportedOperationException: Subtraction is not supported
+java.lang.ArithmeticException: Division by zero
